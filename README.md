@@ -10,4 +10,3 @@ A lightweight, mobile-friendly Python tool designed to extract key terms and gen
 ## Tech Stack
 - Python
 - Regular Expressions (Regex) & Collections
-  
